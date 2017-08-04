@@ -1,0 +1,1 @@
+('Program', ('decSeq', ('dec', ('varDec', ('type', 'int'), ('varSpecSeq', ('varSpecAtrib', 'a', ('Literal', 10))))), ('decSeq', ('decFunc', ('type', 'int'), ('paramList', None), ('block', None, ('stmtList', ('stmt', ('ifStmt', ('expVar', ('var', 'a')), ('block', None, None))), None))))))

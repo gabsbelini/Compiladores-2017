@@ -1,0 +1,15 @@
+main() {
+ int i;
+ string a;
+ for (i=0; i < 10; i+=1) {
+ read v[i];
+ }
+ bubblesort(v, 10);
+if(a>5){
+write 10, " ";
+}
+
+ for (i=0; i < 10; i+=1) {
+ write v[i], " ";
+ }
+}

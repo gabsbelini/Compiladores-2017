@@ -1,0 +1,11 @@
+main() {
+  string i = "123";
+  bool puta  = true;
+  for (i=0; i < 10; i+=1) {
+ }
+ read v[i];
+ bubblesort(v, 10);
+ for (i=0; i < 10; i+=1) {
+  write v[i], " ";
+ }
+}

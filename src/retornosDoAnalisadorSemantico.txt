@@ -1,0 +1,8 @@
+NodeVar:
+  - return dicionario_de_simbolos[self.dicionario['ID']] # tipo da variavel
+NodeLiteral:
+  - retorna o tipo do literal (bool, int, string)
+NodeExpArithimetic:
+  - 'int'
+NodeExpComparison:
+  - 'bool' se passar, None se der erro.

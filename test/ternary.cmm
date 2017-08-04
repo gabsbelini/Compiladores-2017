@@ -1,0 +1,6 @@
+string a = true;
+bool b = false;
+
+teste() {
+    n = (1 > 2) ? a : b;
+}

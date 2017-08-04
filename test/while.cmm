@@ -1,0 +1,8 @@
+bool a = true;
+
+int func() {
+	while (a) {
+	int x = 123;
+	string y, j = 13;
+	}
+}

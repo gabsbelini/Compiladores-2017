@@ -1,0 +1,7 @@
+LexToken(Token: STRING, Valor: 'string', Linha: 1, Coluna: 6)
+LexToken(Token: ID, Valor: 'a', Linha: 1, Coluna: 8)
+LexToken(Token: ASSIGN, Valor: '=', Linha: 1, Coluna: 10)
+LexToken(Token: NUMBER, Valor: 10, Linha: 1, Coluna: 13)
+LexToken(Token: SEMICOLON, Valor: ';', Linha: 1, Coluna: 14)
+
+Lista de Ocorrências {'a': 1}

@@ -1,0 +1,10 @@
+int a = 10, b = 5;
+bool c = "qwe qwe e", d;
+bool e, f = false;
+string v[2] = {"123", "false"};
+int func() {
+  a = b * 15;
+   if (true || false && e) {
+
+   }
+}
